@@ -32,6 +32,8 @@
 <a href="https://devdocs.io/c/"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic"></a>
 <a href="https://devdocs.io/cpp/"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic"></a>
 <a href="https://www.haskell.org/documentation/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"></a>
+<a href="https://docs.soliditylang.org/en/v0.8.20/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
+<a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 
 ### Frameworks and libraries
 
