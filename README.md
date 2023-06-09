@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+program+in%3A;Java%2C+Python+and+C%23!;I+make+unique+things+sometimes!;Hobbyist+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+program+in%3A;Java%2C+Python+and+C%23!;I+make+unique+things+...+sometimes+:);Hobbyist+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Create-LY.
 - 👀 I’m interested in many things. I have been programming Python and Java for the longest. I have made a website in the past...
@@ -40,7 +40,7 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=plastic"></a>
     <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
     <a href="https://vuejs.org/guide/introduction.html"><img alt="React" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>  
-    <a href="https://spring.io/"><img src=""https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white> </a> 
+    <a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a> 
 </p>
 
 ### Databases and cloud hosting
@@ -54,6 +54,7 @@
 ### Software and tools
 
 <p>
+    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=plastic"></a>
