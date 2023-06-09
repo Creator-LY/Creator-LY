@@ -11,7 +11,7 @@
 - 📫 How to reach me: ljyu23@gmail.com - yes, that is the one using SMTP.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Creator-LYo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Creator-LY&theme=horizon)](https://git.io/streak-stats)
 
 ## Important Bits
 
